@@ -1,0 +1,12 @@
+{
+  "name": "welcome-to-docker-node-app",
+  "version": "1.0.0",
+  "description": "A sample Node.js web page that welcomes users to Docker.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
